@@ -1,15 +1,24 @@
+html {
+  background-color: black;
+}
+
 .first-line {
   font-family: 'Baloo Bhaijaan', cursive;
+  color: #ff1515;
+  border-bottom: 2px solid #ff1515;
 }
 
 .second-line {
   font-family: 'Bungee Outline', cursive;
+  color: #ff1515;
 }
 
 .third-line {
   font-family: 'Baloo Bhaijaan', cursive;
+  color: #ff1515;
 }
 
 .fourth-line {
   font-family: 'Bungee Outline', cursive;
+  color: #ff1515;
 }
